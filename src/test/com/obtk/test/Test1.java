@@ -43,4 +43,8 @@ public class Test1 {
         System.out.println("1228zxd");
     }
 
+    @Test
+    public void test2(){
+        System.out.println("1228lm");
+    }
 }
