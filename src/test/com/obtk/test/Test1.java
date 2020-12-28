@@ -33,4 +33,9 @@ public class Test1 {
         System.out.println("测试了代码—1212");
     }
 
+    @Test
+    public void testzxd(){
+        System.out.println("1228zxd");
+    }
+
 }
