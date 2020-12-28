@@ -28,4 +28,9 @@ public class Test1 {
         System.out.println("测试了代码——12.28");
     }
 
+@Test
+    public void test1(){
+        System.out.println("测试了代码—1212");
+    }
+
 }
