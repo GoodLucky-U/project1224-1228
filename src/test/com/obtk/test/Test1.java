@@ -43,4 +43,9 @@ public class Test1 {
         System.out.println("测试了代码—lm");
     }
 
+    @Test
+    public void testlj(){
+        System.out.println("测试了代码——12.28lj");
+    }
+
 }
