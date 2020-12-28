@@ -24,4 +24,8 @@ public class Test1 {
         System.out.println("测试代码是否能执行--lj");
     }
 
+    public void test(){
+        System.out.println("测试了代码——12.28");
+    }
+
 }
