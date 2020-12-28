@@ -38,4 +38,8 @@ public class Test1 {
         System.out.println("1228zxd");
     }
 
+    @Test
+    public void testzxd1(){
+        System.out.println("梁娟吊毛");
+    }
 }
