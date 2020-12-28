@@ -28,14 +28,19 @@ public class Test1 {
         System.out.println("测试了代码——12.28");
     }
 
-@Test
+    @Test
     public void test1(){
         System.out.println("测试了代码—1212");
     }
 
-@Test
+    @Test
     public void test2(){
         System.out.println("测试了代码—chiilon");
+    }
+
+    @Test
+    public void test3(){
+        System.out.println("测试了代码—lm");
     }
 
 }
