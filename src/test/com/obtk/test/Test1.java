@@ -28,9 +28,4 @@ public class Test1 {
         System.out.println("测试了代码——12.28");
     }
 
-    @Test
-    public void testzxd(){
-        System.out.println("测试了代码——12.28zxd");
-    }
-
 }
