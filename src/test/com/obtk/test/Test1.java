@@ -38,4 +38,9 @@ public class Test1 {
         System.out.println("测试了代码—chiilon");
     }
 
+    @Test
+    public void test3(){
+        System.out.println("测试了代码—chiilon9999");
+    }
+
 }
